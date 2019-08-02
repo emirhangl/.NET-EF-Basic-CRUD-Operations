@@ -1,0 +1,13 @@
+C:\Users\ExtEmirhanG\OneDrive - Doğuş Holding A.Ş\Belgeler\Visual Studio 2015\Projects\RecapProjectEmirhan\RecapProjectEmirhan\bin\Debug\RecapProjectEmirhan.exe.config
+C:\Users\ExtEmirhanG\OneDrive - Doğuş Holding A.Ş\Belgeler\Visual Studio 2015\Projects\RecapProjectEmirhan\RecapProjectEmirhan\bin\Debug\RecapProjectEmirhan.exe
+C:\Users\ExtEmirhanG\OneDrive - Doğuş Holding A.Ş\Belgeler\Visual Studio 2015\Projects\RecapProjectEmirhan\RecapProjectEmirhan\bin\Debug\RecapProjectEmirhan.pdb
+C:\Users\ExtEmirhanG\OneDrive - Doğuş Holding A.Ş\Belgeler\Visual Studio 2015\Projects\RecapProjectEmirhan\RecapProjectEmirhan\obj\Debug\RecapProjectEmirhan.csprojResolveAssemblyReference.cache
+C:\Users\ExtEmirhanG\OneDrive - Doğuş Holding A.Ş\Belgeler\Visual Studio 2015\Projects\RecapProjectEmirhan\RecapProjectEmirhan\obj\Debug\RecapProjectEmirhan.Form1.resources
+C:\Users\ExtEmirhanG\OneDrive - Doğuş Holding A.Ş\Belgeler\Visual Studio 2015\Projects\RecapProjectEmirhan\RecapProjectEmirhan\obj\Debug\RecapProjectEmirhan.Properties.Resources.resources
+C:\Users\ExtEmirhanG\OneDrive - Doğuş Holding A.Ş\Belgeler\Visual Studio 2015\Projects\RecapProjectEmirhan\RecapProjectEmirhan\obj\Debug\RecapProjectEmirhan.csproj.GenerateResource.Cache
+C:\Users\ExtEmirhanG\OneDrive - Doğuş Holding A.Ş\Belgeler\Visual Studio 2015\Projects\RecapProjectEmirhan\RecapProjectEmirhan\obj\Debug\RecapProjectEmirhan.exe
+C:\Users\ExtEmirhanG\OneDrive - Doğuş Holding A.Ş\Belgeler\Visual Studio 2015\Projects\RecapProjectEmirhan\RecapProjectEmirhan\obj\Debug\RecapProjectEmirhan.pdb
+C:\Users\ExtEmirhanG\OneDrive - Doğuş Holding A.Ş\Belgeler\Visual Studio 2015\Projects\RecapProjectEmirhan\RecapProjectEmirhan\bin\Debug\EntityFramework.dll
+C:\Users\ExtEmirhanG\OneDrive - Doğuş Holding A.Ş\Belgeler\Visual Studio 2015\Projects\RecapProjectEmirhan\RecapProjectEmirhan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ExtEmirhanG\OneDrive - Doğuş Holding A.Ş\Belgeler\Visual Studio 2015\Projects\RecapProjectEmirhan\RecapProjectEmirhan\bin\Debug\EntityFramework.xml
+C:\Users\ExtEmirhanG\OneDrive - Doğuş Holding A.Ş\Belgeler\Visual Studio 2015\Projects\RecapProjectEmirhan\RecapProjectEmirhan\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,12 @@
+C:\Users\ExtEmirhanG\OneDrive - Doğuş Holding A.Ş\Belgeler\Visual Studio 2015\Projects\RecapProjectEmirhan\RecapProjectEmirhan\bin\Release\RecapProjectEmirhan.exe.config
+C:\Users\ExtEmirhanG\OneDrive - Doğuş Holding A.Ş\Belgeler\Visual Studio 2015\Projects\RecapProjectEmirhan\RecapProjectEmirhan\bin\Release\RecapProjectEmirhan.exe
+C:\Users\ExtEmirhanG\OneDrive - Doğuş Holding A.Ş\Belgeler\Visual Studio 2015\Projects\RecapProjectEmirhan\RecapProjectEmirhan\bin\Release\RecapProjectEmirhan.pdb
+C:\Users\ExtEmirhanG\OneDrive - Doğuş Holding A.Ş\Belgeler\Visual Studio 2015\Projects\RecapProjectEmirhan\RecapProjectEmirhan\bin\Release\EntityFramework.dll
+C:\Users\ExtEmirhanG\OneDrive - Doğuş Holding A.Ş\Belgeler\Visual Studio 2015\Projects\RecapProjectEmirhan\RecapProjectEmirhan\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\ExtEmirhanG\OneDrive - Doğuş Holding A.Ş\Belgeler\Visual Studio 2015\Projects\RecapProjectEmirhan\RecapProjectEmirhan\bin\Release\EntityFramework.xml
+C:\Users\ExtEmirhanG\OneDrive - Doğuş Holding A.Ş\Belgeler\Visual Studio 2015\Projects\RecapProjectEmirhan\RecapProjectEmirhan\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\ExtEmirhanG\OneDrive - Doğuş Holding A.Ş\Belgeler\Visual Studio 2015\Projects\RecapProjectEmirhan\RecapProjectEmirhan\obj\Release\RecapProjectEmirhan.Form1.resources
+C:\Users\ExtEmirhanG\OneDrive - Doğuş Holding A.Ş\Belgeler\Visual Studio 2015\Projects\RecapProjectEmirhan\RecapProjectEmirhan\obj\Release\RecapProjectEmirhan.Properties.Resources.resources
+C:\Users\ExtEmirhanG\OneDrive - Doğuş Holding A.Ş\Belgeler\Visual Studio 2015\Projects\RecapProjectEmirhan\RecapProjectEmirhan\obj\Release\RecapProjectEmirhan.csproj.GenerateResource.Cache
+C:\Users\ExtEmirhanG\OneDrive - Doğuş Holding A.Ş\Belgeler\Visual Studio 2015\Projects\RecapProjectEmirhan\RecapProjectEmirhan\obj\Release\RecapProjectEmirhan.exe
+C:\Users\ExtEmirhanG\OneDrive - Doğuş Holding A.Ş\Belgeler\Visual Studio 2015\Projects\RecapProjectEmirhan\RecapProjectEmirhan\obj\Release\RecapProjectEmirhan.pdb
